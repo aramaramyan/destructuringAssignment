@@ -1,5 +1,7 @@
 "use strict";
 
+// Get name, country and jod using destructuring.
+
 const person = {
 	name: "Sarah",
 	country: "Armenia",
